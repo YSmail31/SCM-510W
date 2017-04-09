@@ -1,0 +1,14 @@
+-1
+Pause
+V-Run
+V-Couplet
+R sur T
+Bigéminée
+Trigéminée
+V-Single
+S-Run
+S-Couplet
+S-Single
+Fa
+Apnée/Hypopnée
+Désaturation de l'oxygène
